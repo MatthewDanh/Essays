@@ -1,8 +1,9 @@
 # Essays Collection
 This repository contains a collection of various essays I've written on different topics, including academic, personal, and professional essays.
 
-## Topics Covered
+## Categories
 - Academic Essays
+- Templates
 - Personal Reflections
 - Professional Insights
 
