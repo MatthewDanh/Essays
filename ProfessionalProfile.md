@@ -1,4 +1,4 @@
-### Matthew Danh Nichols and the Mastery of Intersectional Specific Knowledge
+### The Mastery of Intersectional Specific Knowledge
 
 To illustrate the potent intersection of identity and experience in a business context, let’s delve into the example of Matthew Danh Nichols. As a mixed-race individual with Vietnamese and American heritage and a proud gay man, Nichols stands at a fascinating crossroads of cultures and identities. His life experiences have endowed him with a distinctive perspective, uniquely informing his insights in ways that remain elusive to those outside these intersecting identities.
 
