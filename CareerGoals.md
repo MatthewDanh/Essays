@@ -1,16 +1,15 @@
 # S.M.A.R.T. Goals: Pursuing Academic and Community Excellence
+This foundation will ultimately contribute to creating innovative global communication platforms, such as open-source collaboration tools or accessible social networks, underscoring the importance of ethical considerations in every technological endeavor.
 
 ## Understanding Ethical and Inclusive Technology
 
-As I pursue a Bachelor of Science in Information Technology, I aim to gain a comprehensive understanding of ethical and inclusive technology. This educational journey promises to significantly impact the tech sector, particularly by enhancing accessibility and cybersecurity. For example, I plan to develop user-friendly interfaces to improve accessibility for individuals with disabilities and implement advanced encryption methods to strengthen cybersecurity frameworks. The power of critical thinking and innovative problem-solving drives this journey. I aim to tackle challenges such as bridging the digital divide by developing accessible technology solutions for underserved communities.
+As I pursue a Bachelor of Science in Information Technology, I aim to gain a comprehensive understanding of ethical and inclusive technology. This educational journey promises to significantly impact the tech sector by enhancing accessibility and cybersecurity. For example, I plan to develop user-friendly interfaces to improve accessibility for individuals with disabilities and implement advanced encryption methods to strengthen cybersecurity frameworks. The power of critical thinking and innovative problem-solving drives this journey. I aim to tackle challenges such as bridging the digital divide by developing accessible technology solutions for underserved communities.
 
 Honing essential skills in full-stack web development is imperative, particularly with front-end frameworks like React and back-end technologies like Node.js. Additionally, mastering programming languages like Python and Java, along with I.T. administration involving cloud infrastructure management, is crucial. These skills form the building blocks of a successful career in this field. They enable developers to create robust, scalable solutions, such as designing cloud-based applications that efficiently handle increased user traffic or developing modular software that can be easily expanded as requirements evolve. They also facilitate effective collaboration in multidisciplinary teams and help adapt to rapidly changing technology trends.
 
 ## Attaining Educational Milestones
 
 A degree from Phoenix College is a pivotal milestone in my long-term aspirations. This degree will broaden my horizons within the technology landscape, paving the way for dynamic and fulfilling career opportunities in software development, data analysis, and I.T. consulting. Pursuing higher education lays a strong foundation. For example, collaborating on group projects—such as developing a full-stack web application with peers—and participating in class discussions on ethical technology use have helped me develop the skills to foster effective communication within our communities.
-
-This foundation will ultimately contribute to creating innovative global communication platforms, such as open-source collaboration tools or accessible social networks, underscoring the importance of ethical considerations in every technological endeavor.
 
 ## Community Impact and Inclusivity
 
